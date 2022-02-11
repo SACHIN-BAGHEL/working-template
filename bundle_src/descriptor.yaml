@@ -1,0 +1,6 @@
+code: strapi-second-bundle
+description: Second Template for strapi projects
+components:
+  widgets:
+    - ui/widgets/widgets-dir/et-widget/et-widget-descriptor.yaml
+

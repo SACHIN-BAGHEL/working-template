@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://entando-mf-template-0.0.1/src/App.css?"],"names":[],"mappings":"AAAA;EACE,uCAAuC;EACvC,YAAY;EACZ,aAAa;EACb,iBAAiB;AACnB,C","file":"static/css/main.cb978c16.css","sourcesContent":[".card {\n  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);\n  width: 20rem;\n  padding: 1rem;\n  transition:  0.3s;\n}"],"sourceRoot":""}

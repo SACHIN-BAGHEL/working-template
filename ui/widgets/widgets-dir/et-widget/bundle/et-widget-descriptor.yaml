@@ -1,0 +1,6 @@
+code: et2-app
+titles:
+  en: Entando2 Template MF
+  it: Entando2 Template MF
+group: free
+customUiPath: et-widget.ftl
